@@ -57,7 +57,7 @@ global.readMore = readMore
 global.author = '𝑪𝒓𝒆𝒂𝒕 𝑩𝒚 𝑳𝒚𝒏𝒏𝑴𝒅'
 global.namebot = '𝑳𝒚𝒏𝒏-𝑴𝒅'
 global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝙇𝙮𝙣𝙣 𝘽𝙤𝙩𝙯 𝙒𝙖'
-global.media = 'https://telegra.ph/file/881df749a21bf4c6fbc7d.jpg'
+global.media = 'https://telegra.ph/file/efbe3e638d613d5176c2a.png'
 global.watermark = wm
 global.wm2 = '𝙔𝙩 𝙇𝙮𝙣𝙣𝙓𝙯𝙮 ? '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
@@ -304,16 +304,16 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 global.logo = 'https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2d1.jpg'
 
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/Frezzy-XD"
+global.urlnya = "https://www.instagram.com/botzlynx"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '085380166282'
+global.phn = '60189830350'
 
-global.thumbdoc = 'https://telegra.ph/file/881df749a21bf4c6fbc7d.jpg'
+global.thumbdoc = 'https://telegra.ph/file/efbe3e638d613d5176c2a.png'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JNGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.fsizedoc = '99999999999999'
 global.fpagedoc = '999'
-global.thumbdoc = 'https://chat.whatsapp.com/I0prmYcZhKrCye0kiclzyt'
+global.thumbdoc = 'https://chat.whatsapp.com/EheAWPrQMhV25xW0N7l7WD'
 
 let file = fileURLToPath(import.meta.url)
 watchFile(file, () => {
