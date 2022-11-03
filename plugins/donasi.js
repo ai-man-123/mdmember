@@ -9,9 +9,9 @@ const catalog = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "product": {
 "productImage": messa.imageMessage, 
 "productId": "5489299044451325",
-"title": `Jasa Sewa ʏᴛ ᴍᴀxxʏ ʙᴏᴛᴢ✓ Md`,
+"title": `Jasa Sewa ʏᴛ ʟʏɴɴxᴢʏ✓ Md`,
 "description": `HALO BANG`,
-"currencyCode": "IDR",
+"currencyCode": "RM",
 "bodyText": wm,
 "footerText": wm,
 "priceAmount1000": "3000",
@@ -19,9 +19,9 @@ const catalog = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "firstImageId": 1,
 "salePriceAmount1000": "10000000",
 "retailerId": wm,
-"url": "wa.me/6285380166282"
+"url": "wa.me/60189830350"
 },
-"businessOwnerJid": "6285380166282@s.whatsapp.net",
+"businessOwnerJid": "60189830350@s.whatsapp.net",
 }
 }), { userJid: m.chat, quoted: ftroli })    
 
