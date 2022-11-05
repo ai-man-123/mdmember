@@ -43,33 +43,33 @@ let info =
 `
 Belum Tau Mau Jual Apa:)
 `
-  /*  {title: "🔖 HEMAT", rowId: '.order *Paket:* HEMAT • Sewa', description: 'PRICE: ' + sh + 'k (1 minggu)' },
-	    {title: "🔖 NORMAL", rowId: '.order *Paket:* NORMAL • Sewa', description: 'PRICE: ' + sn + 'k (1 bulan)' },
-	{title: "🔖 STANDAR", rowId: '.order *Paket:* STANDAR • Sewa', description: 'PRICE: ' + ss + 'k (2 bulan)' },
-	{title: "🔖 PRO", rowId: '.order *Paket:* PRO • Sewa', description: 'PRICE: ' + sp + 'k (4 bulan)' },
-	{title: "🔖 VIP", rowId: '.order *Paket:* VIP • Sewa', description: 'PRICE: ' + sv + 'k (12 bulan)' },*/
+  /*  {title: "🔖 HEMAT", rowId: '.order *Paket:* HEMAT • Sewa', description: 'PRICE: ' + sh + ' (1 minggu)' },
+	    {title: "🔖 NORMAL", rowId: '.order *Paket:* NORMAL • Sewa', description: 'PRICE: ' + sn + ' (1 bulan)' },
+	{title: "🔖 STANDAR", rowId: '.order *Paket:* STANDAR • Sewa', description: 'PRICE: ' + ss + ' (2 bulan)' },
+	{title: "🔖 PRO", rowId: '.order *Paket:* PRO • Sewa', description: 'PRICE: ' + sp + ' (4 bulan)' },
+	{title: "🔖 VIP", rowId: '.order *Paket:* VIP • Sewa', description: 'PRICE: ' + sv + ' (12 bulan)' },*/
 const sections = [{
 title: `⟥⟝⟢⟨ Sᴇᴡᴀ Bᴏᴛ ⟩⟣⟞⟤`,
 rows: [
 {title: "⟣⟨ HEMAT ⟩⟢",
 rowId: '.store sewabottt 7 Hari',
-description: 'Pʀɪᴄᴇ Sᴇᴡᴀ 5 ᴋ : 7 Hᴀʀɪ' },
+description: 'Pʀɪᴄᴇ Sᴇᴡᴀ ʀᴍ 5  : 7 Hᴀʀɪ' },
 {title: "⟣⟨ NORMAL ⟩⟢",
 rowId: '.store sewabottt 15 Hari',
-description: 'Pʀɪᴄᴇ Sᴇᴡᴀ 10 ᴋ : 15 Hᴀʀɪ' },
+description: 'Pʀɪᴄᴇ Sᴇᴡᴀ ʀᴍ 10 : 15 Hᴀʀɪ' },
 {title: "⟣⟨ STANDAR ⟩⟢",
 rowId: '.store sewabottt 30 hari',
-description: 'Pʀɪᴄᴇ Sᴇᴡᴀ 20 ᴋ : 30 Hᴀʀɪ' },
+description: 'Pʀɪᴄᴇ Sᴇᴡᴀ ʀᴍ 25 : 30 Hᴀʀɪ' },
 {title: "⟣⟨ PRO ⟩⟢",
 rowId: '.store sewabottt 40 hari',
-description: 'Pʀɪᴄᴇ Sᴇᴡᴀ 25 ᴋ : 40 Hᴀʀɪ' },
+description: 'Pʀɪᴄᴇ Sᴇᴡᴀ  ʀᴍ 30  : 40 Hᴀʀɪ' },
 ]},
 {
 title: `${htjava} PREMIUM ✦-------`,
 rows: [
 {title: "🌟 HEMAT", 
 rowId: '.order *Paket:* HEMAT • Premium', 
-description: 'PRICE: ' + ph + 'k (1 minggu)' },
+description: 'PRICE: ' + ph + ' (1 minggu)' },
 ]},
 ]
 
